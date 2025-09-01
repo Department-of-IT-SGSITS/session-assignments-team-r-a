@@ -9,8 +9,10 @@ Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon
 - **S3**: Store the HTML form.
 - **API Gateway**: Expose Lambda securely on the internet.
 
-## ARCHITECTURE DIAGRAM
-*(Add your diagram here)*
+## Architecture Diagram
+
+![Serverless Contact Form Architecture](images/architecture.png)
+
 
 ## STEPS
 1. **Configure SES to send emails to yourself**
