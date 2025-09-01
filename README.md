@@ -11,7 +11,7 @@ Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon
 
 ## Architecture Diagram
 
-![Serverless Contact Form Architecture](images/architecture.png)
+![Serverless Contact Form Architecture](images/Architecture.png)
 
 
 ## STEPS
