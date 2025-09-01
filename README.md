@@ -1,6 +1,6 @@
 # SERVERLESS CONTACT FORM
 
-## PROMPT
+## PROJECT OVERVIEW
 Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon Simple Email Service (SES). When users submit the form, the Lambda function will trigger and send the form data to your email using SES.
 
 ## USE CASE FOR EACH SERVICE
