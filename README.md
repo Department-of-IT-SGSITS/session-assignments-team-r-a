@@ -75,7 +75,4 @@ Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon
 7. Create S3 bucket
 8. Test: Send an email
 
-
-## RESULTS
-https://www.youtube.com/watch?v=HKpb3AqL8FU
-https://www.youtube.com/watch?v=2K73Rcx7sJ0
+Rohit
