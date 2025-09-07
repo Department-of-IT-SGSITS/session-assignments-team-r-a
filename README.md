@@ -84,6 +84,9 @@ Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon
 8. **Test: Submit the form and verify email delivery**.
 
 ---
+Video 
+[![Watch the video]((https://drive.google.com/file/d/1hWPvoAVgp57DA043Q0r0JX2cdWwMhKDq/view))
+)
 
 ### CONTRIBUTORS
 Rohit  
