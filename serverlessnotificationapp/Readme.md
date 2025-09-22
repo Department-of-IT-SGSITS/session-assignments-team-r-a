@@ -5,10 +5,8 @@ You can check out the live version of this app here:
 
 ## Video Implementation
 
-<video controls>
-  <source src="https://drive.google.com/uc?export=download&id=1yYH8BLwNrAzg_RNmArtGXBsm5rxUT4NP" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://drive.google.com/file/d/1yYH8BLwNrAzg_RNmArtGXBsm5rxUT4NP/view?usp=sharing)
+
 
 
 ## About  
