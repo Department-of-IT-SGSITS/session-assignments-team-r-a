@@ -1,12 +1,16 @@
 # Live App 🚀
 
 You can check out the live version of this app here:  
-👉 [Serverless_Notification_App](https://serverless-notification-app.onrender.com)
+[Serverless_Notification_App](https://serverless-notification-app.onrender.com)
 
 ## Video Implementation
 
-[Watch the video](https://drive.google.com/file/d/1yYH8BLwNrAzg_RNmArtGXBsm5rxUT4NP/view?usp=sharing)
+[[Watch the video](https://drive.google.com/file/d/1yYH8BLwNrAzg_RNmArtGXBsm5rxUT4NP/view?usp=sharing)](https://drive.google.com/file/d/1yYH8BLwNrAzg_RNmArtGXBsm5rxUT4NP/preview
+)
 
+<iframe src="https://drive.google.com/file/d/1yYH8BLwNrAzg_RNmArtGXBsm5rxUT4NP/preview" 
+        width="640" height="480" allow="autoplay">
+</iframe>
 
 
 ## About  
