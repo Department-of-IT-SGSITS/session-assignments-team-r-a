@@ -1,4 +1,4 @@
-# SERVERLESS CONTACT FORM
+<img width="1024" height="1536" alt="Architecture_1" src="https://github.com/user-attachments/assets/a2e1cc72-df76-4e05-88c6-7e122f103e09" /># SERVERLESS CONTACT FORM
 
 ## PROJECT OVERVIEW
 Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon Simple Email Service (SES). When users submit the form, the Lambda function will trigger and send the form data to your email using SES.
@@ -11,7 +11,8 @@ Build a serverless contact form using AWS Lambda, Amazon API Gateway, and Amazon
 
 ## Architecture Diagram
 
-![Serverless Contact Form Architecture](images/Architecture.png)
+![Serverless Contact Form Architecture](![Uploading Architecture_1.png…])
+
 
 
 ## STEPS
